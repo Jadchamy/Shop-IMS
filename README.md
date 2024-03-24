@@ -1,4 +1,4 @@
-# MawuliShop
+# Shop IMS
 # Overview
 This is an inventory management system for both the admin and the attendant. This is basically for monitoring sales, keeping track of items and processing purchases
 
@@ -33,7 +33,7 @@ This is an inventory management system for both the admin and the attendant. Thi
 
 # How to get it working
 - Git Pull or download and unzip the file
-- Just incase, visual studio 19 was used.
+- Just incase, visual studio 22 was used.
 - Create **Microsoft SQL Server Database File (SqlClient)** with the tables below
 
 
